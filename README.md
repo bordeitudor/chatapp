@@ -16,4 +16,4 @@ Scris in C++17 si realizat ca tema pentru ora de Informatica.
 [clang v18.1.8](https://github.com/llvm/llvm-project/releases/tag/llvmorg-18.1.8)
 
 # Demonstratie
-<video src="docs/demonstratie.mp4" width="320" height="240" controls></video>
+https://github.com/user-attachments/assets/ddd6aa11-11f5-4e97-b5ab-72d944d731ff
