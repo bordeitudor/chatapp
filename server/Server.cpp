@@ -1,7 +1,7 @@
 #include "WS2.h"
 #include "Client.h"
 #include "Message.h"
-\
+
 /* functie de thread */
 void dist(std::mutex& mMut, std::mutex& cMut, std::list<Client>& clients, std::list<std::string>& messages, addrinfo* result) {
     // Distribuim fiecare mesaj trimis de catre clienti, si pentru fiecare mesaj, trimitem mesajul tuturor celorlalti clienti
